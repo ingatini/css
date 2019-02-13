@@ -1,0 +1,62 @@
+.bt {
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding: 2px 4px;
+  float: right;
+  border-radius: 2px;
+}
+.hadi {
+  border: none;
+  width: 50%;
+  padding: 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.blue {
+  background-color: blue; 
+  color: white; 
+  border: 2px solid blue;
+}
+
+.blue:hover {
+  background-color: white;
+  color: black;
+}
+
+.red {
+  background-color: red; 
+  color: white; 
+  border: 2px solid red;
+}
+
+.red:hover {
+  background-color: white;
+  color: black;
+}
+
+.green {
+  background-color: green; 
+  color: white; 
+  border: 2px solid green;
+}
+
+.green:hover {
+  background-color: white;
+  color: black;
+}
+.g {
+float: right;
+}
