@@ -60,3 +60,10 @@
 .g {
 float: right;
 }
+
+iframe {
+  width: 100%;
+  frameborder: 0px;
+  allowfullscreen: true;
+  height: 315px;
+}
